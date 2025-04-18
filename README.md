@@ -11,6 +11,32 @@ It is built with:
 - 💻 Streamlit for a clean, user-friendly interface
 
 ---
+## Tech Stack
+
+### Programming Languages
+- **Python**
+
+### Libraries & Frameworks
+- **Langchain**: For handling natural language processing (NLP) tasks and integrating LLMs.
+- **Hugging Face**: For using the Mistral-7B-Instruct model and embeddings.
+- **FAISS**: For vector storage and retrieval.
+- **Streamlit**: For building the web interface and interactive features.
+- **Whisper**: For speech-to-text transcription.
+- **Sounddevice**: For recording audio from the microphone.
+- **Pandas**: For data manipulation and handling movie data.
+- **Requests**: For interacting with external APIs.
+- **PyPDFLoader** and **DirectoryLoader**: For loading and processing PDF documents.
+
+### Models
+- **Mistral-7B-Instruct**: A large language model from Hugging Face used for text generation and answering questions.
+- **Whisper**: A speech-to-text model used for transcribing audio input.
+
+### APIs
+- **The Movie Database (TMDB) API**: Used for fetching movie posters based on movie IDs.
+
+### Data Storage
+- **FAISS**: For storing and retrieving embeddings of documents and movie information.
+---
 ## 📙Dataset Used 
 - **The GALE ENCYCLOPEDIA of MEDICINE SECOND EDITION**
 - **SELF MADE EMOTIONAL SUPPORT DATASET**
@@ -75,9 +101,7 @@ Deliver a clean, user-friendly interface with multi-modal input support and adde
 ### 📸 Project Screenshots
 
 #### 🔹 Streamlit Chatbot Interface
-![Streamlit Chat UI](https://github.com/user-attachments/assets/c7c3b63b-4fb4-4abb-beb5-2e362d0f12a5)
-
-
+![Streamlit Chat UI](https://github.com/user-attachments/assets/ee0928ee-6df0-4747-b7f1-69e4bf0c95d9)
 
 
 ## 🚀 Getting Started
