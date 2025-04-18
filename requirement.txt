@@ -1,0 +1,10 @@
+langchain
+huggingface_hub
+faiss-cpu
+streamlit
+whisper
+sounddevice
+pandas
+requests
+PyPDF2
+python-dotenv
